@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey there! I'm Darshan Anand, a passionate Software Engineer with a strong background in Artificial Intelligence and Machine Learning. Currently, 
+Hey there! I'm Darshan Anand, a passionate Software Engineer 
+Working @Swapp as an AI intern with a strong background in Artificial Intelligence and Machine Learning. Currently, 
 I'm dedicated to exploring new technologies and honing my skills to create innovative solutions.
 With a Bachelor's degree in Computer Science and Engineering @DayanandaSagarUniversity-21, I've gained expertise in developing robust software applications and implementing advanced algorithms.<br/><br/>
 🔭 Currently exploring new technologies and crafting innovative projects.<br/><br/>
