@@ -23,10 +23,10 @@ With a Bachelor's degree in Computer Science and Engineering @DayanandaSagarUniv
 -->
 
 ### ✍️ Random Dev Quote
-![Random Dev Quote](https://api.quotable.io/random?tags=technology)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 😂 Random Dev Meme
-![Random Dev Meme](https://api.memegen.link/images/memes/custom/Can't%20find%20a%20random%20meme.jpg)
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 
