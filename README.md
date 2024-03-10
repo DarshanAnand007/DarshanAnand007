@@ -1,7 +1,9 @@
 # 💫 About Me:
-Hey there! I'm Darshan Anand, a Software Engineer with a passion for AI and continuous learning.<br/><br/>
+Hey there! I'm Darshan Anand, a passionate Software Engineer with a strong background in Artificial Intelligence and Machine Learning. Currently, 
+I'm dedicated to exploring new technologies and honing my skills to create innovative solutions.
+With a Bachelor's degree in Computer Science and Engineering @DayanandaSagarUniversity-21, I've gained expertise in developing robust software applications and implementing advanced algorithms.<br/><br/>
 🔭 Currently exploring new technologies and crafting innovative projects.<br/><br/>
-💻 Skilled in Python, JavaScript, and React.<br/><br/>
+💻 Skilled in Python, MachineLearning,DSA.<br/><br/>
 📫 Reach out to me at darshananand004@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/darshan-anand-774117211). Let's innovate together! 💡<br/>
 
 ## 🌐 Socials:
