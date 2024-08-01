@@ -29,7 +29,8 @@ With a Bachelor's degree in Computer Science and Engineering @DayanandaSagarUniv
 
 
 ### 😂 Random Dev Meme
-![Random Dev Meme](https://meme-api.com/gimme/programmerhumor)
+![Random Dev Meme](https://programming-memes-imgs.xihtox.com/)
+
 
 
 
