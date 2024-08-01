@@ -23,13 +23,10 @@ With a Bachelor's degree in Computer Science and Engineering @DayanandaSagarUniv
 -->
 
 ### ✍️ Random Dev Quote
-<img src="https://meme-api.com/gimme/programmerhumor" alt="Random Dev Meme" style="height: 400px;"/>
+<img src="https://programming-quotes-api.vercel.app/api/random" alt="Random Developer Quote" />
 
 
 
-
-### 😂 Random Dev Meme
-![Random Dev Meme](https://programming-memes-imgs.xihtox.com/)
 
 
 
