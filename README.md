@@ -23,8 +23,9 @@ With a Bachelor's degree in Computer Science and Engineering @DayanandaSagarUniv
 -->
 
 ### ✍️ Random Dev Quote
-<img src="https://programming-quotes-api.vercel.app/api/random" alt="Random Developer Quote" />
 
+
+<img src="https://programming-quotes-api.vercel.app/api/random" alt="Random Developer Quote" style="height: 400px;" />
 
 
 
