@@ -24,9 +24,7 @@ With a Bachelor's degree in Computer Science and Engineering @DayanandaSagarUniv
 
 ### ✍️ Random Dev Quote
 
-
-<img src="https://programming-quotes-api.vercel.app/api/random" alt="Random Developer Quote" style="height: 400px;" />
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
