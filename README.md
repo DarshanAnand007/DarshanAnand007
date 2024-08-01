@@ -26,20 +26,6 @@ With a Bachelor's degree in Computer Science and Engineering @DayanandaSagarUniv
 
 
 <img src="https://programming-quotes-api.vercel.app/api/random" alt="Random Developer Quote" style="height: 400px;" />
-## 💡 Random Developer Quote
-
-<p id="quote"></p>
-
-<script>
-  fetch("https://programming-quotes-api.vercel.app/api/random")
-    .then(response => response.json())
-    .then(data => {
-      document.getElementById("quote").innerText = `"${data.en}" - ${data.author}`;
-    })
-    .catch(err => console.error(err));
-</script>
-
-
 
 
 
