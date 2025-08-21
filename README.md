@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hey there! I'm Darshan Anand, a passionate Software Engineer 
-Working @Swapp as an AI intern with a strong background in Artificial Intelligence and Machine Learning. Currently, 
-I'm dedicated to exploring new technologies and honing my skills to create innovative solutions.
-With a Bachelor's degree in Computer Science and Engineering @DayanandaSagarUniversity-21, I've gained expertise in developing robust software applications and implementing advanced algorithms.<br/><br/>
+Conversational AI Engineer and Technical Leader with shipping production AI systems at scale. Built conversational AI platforms serving  
+enterprise solutions reducing operational costs by 40%. NASA Space Apps Challenge Global Winner with proven ability to solve complex 
+problems under pressure. Active open source contributor to NVIDIA Developer . Founded and scaled startup across 80+ countries. Expertise in 
+LLMs, conversational AI, and bui
 🔭 Currently exploring new technologies and crafting innovative projects.<br/><br/>
 💻 Skilled in Python, MachineLearning,DSA.<br/><br/>
 📫 Reach out to me at darshananand004@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/darshan-anand-774117211). Let's innovate together! 💡<br/>
